@@ -58,4 +58,4 @@ pip install opencv-python mediapipe numpy
 ## 2. Download the AI model
 curl -o hand_landmarker.task "https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task"
 ## 3. Run
-python opencv.py
+python openncv.py
